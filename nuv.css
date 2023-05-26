@@ -58,9 +58,13 @@ h1 {
 
 p {
   float: right;
-  font-family: cursive;
+  font-family: sans-serif;
   margin: 0;
   padding: 1em;
+}
+
+code {
+  font-family: fantasy;
 }
 
 em {
